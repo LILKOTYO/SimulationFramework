@@ -1,8 +1,8 @@
-# Computer Animation 2022 - Exercise
+# Simulation Framework
 
 ## Overview
 
-Code framework for course exercise.
+Code framework for simulation.
 
 ## Installation
 
