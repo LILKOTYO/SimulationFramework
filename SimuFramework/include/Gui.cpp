@@ -15,16 +15,13 @@ void Gui::start() {
 	// message: http://patorjk.com/software/taag/#p=display&v=0&f=Roman&t=DALAB
 	std::string usage(
 		R"(
-oooooooooo.         .o.       ooooo              .o.       oooooooooo.  
-`888'   `Y8b       .888.      `888'             .888.      `888'   `Y8b 
- 888      888     .8"888.      888             .8"888.      888     888 
- 888      888    .8' `888.     888            .8' `888.     888oooo888' 
- 888      888   .88ooo8888.    888           .88ooo8888.    888    `88b 
- 888     d88'  .8'     `888.   888       o  .8'     `888.   888    .88P 
-o888bood8P'   o88o     o8888o o888ooooood8 o88o     o8888o o888bood8P'  
-		  
-		  Computer Animation
-  		Course Exercise Framework
+			oooooooooooo ooooo ooooo      ooo  .oooooo..o 
+			`888'     `8 `888' `888b.     `8' d8P'    `Y8 
+			888          888   8 `88b.    8  Y88bo.      
+			888oooo8     888   8   `88b.  8   `"Y8888o.  
+			888    "     888   8     `88b.8       `"Y88b 
+			888          888   8       `888  oo     .d8P 
+			o888o        o888o o8o        `8  8""88888P'  
   
   Shortcuts:
   [drag] Rotate scene                 |  [space] Start/pause simulation
